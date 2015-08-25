@@ -1,0 +1,30 @@
+#summary This project uses Zmail Basic for user authentication and super-encryption.
+#labels Featured
+= Introduction =
+This project uses Zmail Basic for user authentication and super-encryption, enabling end-to-end free, authenticated secure email that anyone can use. Zmail Basic is a free, fully functional secure email service provided at [http://ZmailBasic.com/ ZmailBasic.com]. 
+
+= Details =
+Zmail is a secure email interface developed by NMA, Inc in 2004. Zmail uses the software and email address that users already have. Zmail complies with HIPAA, FFIEC, GLBA, SOA, SB 1386 and ISO 17799 regulations. Zmail Basic is a fully-functional free edition for enterprise trials and personal use. 
+
+The following features are included in Zmail Basic:
+  *  Passwords are not stored. Only each user knows their password. 
+  *  User Account, for Single-User Basic license. Non-commercial use only. 
+  *  Unlimited message decryptions/day. 
+  *  Free quota of daily message encryptions. 
+  *  Easy to read, with one click, even on first contact. 
+  *  Send to Anyone. Anyone can read and reply to a zmail, free. 
+  *  Release Time. Message cannot be read before the time the sender defines. 
+  *  Expiration Time. Message cannot be read after the time the sender defines. 
+  *  Message Fingerprint. Users can digitally sign their messages.
+  *  Delivery Receipt. When, Where, How and by Whom the message was decrypted. 
+  *  Reports and Auditing. Full report of sent messages. 
+  *  Encrypted Address Book. Automatic contact & digital certificate management. 
+  *  End-To-End Message Encryption, Decryption, and Authentication. 
+  *  Sender and Recipient Authentication. 
+  *  Secures Email and Attachments.
+  *  Secure Data Storage.
+  *  Simple and Secure Login With Two-Factor Authentication. 
+  *  Mutual Authentication Prevents Spam, Spoofing, Phishing.  
+  *  Standards Based. 
+
+Zmail works with no change to the users' email addresses, no download, and no installation. For security, it does not use ActiveX or Java. Cookies are not required.
